@@ -19,7 +19,6 @@ def next_id():
 
 class User(Model):
     __table__ = 'users'
-
     id = StringField(primary_key=True,default=next_id(),ddl='varchar(50)')
     email = StringField(ddl='varchar(50)')
     passwd = StringField(ddl='varchar(50)')

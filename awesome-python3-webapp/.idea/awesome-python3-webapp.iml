@@ -5,6 +5,12 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/www" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/www/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/www/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LICENSE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/conf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/backup" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
